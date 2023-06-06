@@ -5,7 +5,7 @@
 
 ## Motivação 
 Necessidade de um relatório financeiro com os dados do **ERP Protheus da TOTVS®** que contemplasse o contas a pagar, a receber e o saldo bancário e fosse enviado via e-mail.
-Também por necessidade da organização, o saldo bancário total seria informado semanalmente em uma planilha, para que conseguissem inputar outros saldos que se fizessem necessários e o relatório demonstraria duas visões, uma semanal e outra gera com 60 dias a frente (configurável).
+Também por necessidade da organização, o saldo bancário total seria informado semanalmente em uma planilha, para que conseguissem inputar outros saldos que se fizessem necessários e o relatório demonstraria duas visões, uma semanal e outra geral com 60 dias a frente (configurável).
 
 
 
