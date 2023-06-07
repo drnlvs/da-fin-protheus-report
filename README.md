@@ -3,7 +3,7 @@
 
 
 ## Motivation
-There was a need for a financial report with data coming from the **ERP Protheus of TOTVS®** that included accounts payable, receivable and the bank balance and sent via email.
+There was a need for a financial report with data coming from the **ERP Protheus of TOTVS®** that included accounts payable, receivable and the bank balance, then send everything by email.
 Also due to the organization's needs, the total bank balance would be reported weekly in a spreadsheet, so that other balances could be entered as necessary and the report would show two views, one weekly and the other general with 60 days ahead (configurable).
 
 
@@ -25,9 +25,9 @@ Accumulated overall from 60 days.
 * install requirements.txt;
 * create queries in your database;
 * adjusts company name and analise the need for UNION in queries;
-* sets the bank variables in the py file in the "CRIA VARIÁVEIS" session;
-* sets the variables in the "CONFIGURANDO ENVIO DE EMAILS" section in the py file;
-* sets in the py file the directory of the xlsx file in the session "CRIANDO DATAFRAME SALDOS BANCÁRIOS"
+* sets the database variables in the py file in the "CRIA VARIÁVEIS" session;
+* sets the email variables in the "CONFIGURANDO ENVIO DE EMAILS" section in the py file;
+* sets in the py file the xlsx's directory in the session "CRIANDO DATAFRAME SALDOS BANCÁRIOS".
 
 
 ---
